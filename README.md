@@ -1,6 +1,6 @@
 # Cluster versus continuum analysis
 
-This repo contains the code for the cluster versus continuum analysis of the paper "An unsupervised map of excitatory neurons’ dendritic morphology in the mouse visual cortex"[link](https://doi.org/10.1101/2022.12.22.521541).
+This repo contains the code for the cluster versus continuum analysis of the paper ["An unsupervised map of excitatory neurons’ dendritic morphology in the mouse visual cortex"](https://doi.org/10.1101/2022.12.22.521541).
 
 ## ARI Neuronal data
 Run the ARI analysis on the neuronal data:
