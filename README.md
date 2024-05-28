@@ -22,5 +22,5 @@ python3 ari_analysis_synthetic.py --n_clusters 20
 ```
 
 ## Visualizations
-The folder [visualizations](https://github.com/marissaweis/cluster_vs_continuum/blob/main/visualizations/) contains jupyter notebooks to plot subfigures A - G of Figure 3 of the paper.
+The folder [visualization](https://github.com/marissaweis/cluster_vs_continuum/blob/main/visualization/) contains jupyter notebooks to plot subfigures A - G of Figure 3 of the paper.
 Dip statistics in the paper are scaled by a factor of 2 compared to the output of the *diptest* package.
