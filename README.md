@@ -12,7 +12,7 @@ python3 ari_analysis_neuronal.py data/neuronal_data/df_neuron.pkl
 To generate synthetic data, first run the ARI analysis of the neuronal data to extract the cluster means of the neuronal data. 
 Then run with the desired number of samples *N*: 
 ```
-python3 generate_synthetic_data.py --n_samples N
+python3 generate_synthetic_data.py --n_samples <N>
 ```
 
 ## ARI analysis of synthetic data
