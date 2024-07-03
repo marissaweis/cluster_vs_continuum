@@ -24,3 +24,15 @@ python3 ari_analysis_synthetic.py --n_clusters 20
 ## Visualizations
 The folder [visualization](https://github.com/marissaweis/cluster_vs_continuum/blob/main/visualization/) contains jupyter notebooks to plot subfigures A - G of Figure 3 of the paper.
 Dip statistics in the paper are scaled by a factor of 2 compared to the output of the *diptest* package.
+
+
+## Citation
+```
+@article{Weis2024,
+      title={An unsupervised map of excitatory neurons' dendritic morphology in the mouse visual cortex},
+      author = {Weis, Marissa A. and Papadopoulos, Stelios and Hansel, Laura and Lüddecke, Timo and Celii, Brendan and Fahey, Paul G. and Wang, Eric Y. and MICrONS Consortium and Reimer, Jacob and Berens, Philipp and Tolias, Andreas S. and Ecker, Alexander S.}
+      journal={bioRxiv},
+      doi = {10.1101/2022.12.22.521541},
+      year={2024}
+}
+```
